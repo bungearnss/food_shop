@@ -1,6 +1,13 @@
 # shop_app
 
-A new Flutter project.
+Food shop application using Flutter
+
+using package:
+- provider
+- firestore
+- shared_preferences
+- http
+- intl
 
 ## Getting Started
 
